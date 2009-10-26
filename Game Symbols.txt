@@ -1,0 +1,14 @@
+spades	♠
+Spades	♤
+clubs	♣
+Clubs	♧
+hearts	♥
+Hearts	♡
+diams	♦
+Diams	♢
+dice1	⚀
+dice2	⚁
+dice3	⚂
+dice4	⚃
+dice5	⚄
+dice6	⚅

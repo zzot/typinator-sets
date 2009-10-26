@@ -1,0 +1,18 @@
+poison	☠	Poison Hazard Symbol
+radioactive	☢	Radiation Hazard Symbol
+biohazard	☣	Biological Hazard Symbol
+warning	⚠	General Warning Symbol
+voltage	⚡	High-Voltage Symbol
+handicapped	♿	Handicapped Symbol
+recyclingu	♲	universal recycling symbol
+Recyclingu	♻	black universal recycling symbol
+recycling1	♳	recycling for type-1 plastics
+recycling2	♴	recycling for type-2 plastics
+recycling3	♵	recycling for type-3 plastics
+recycling4	♶	recycling for type-4 plastics
+recycling5	♷	recycling for type-5 plastics
+recycling6	♸	recycling for type-6 plastics
+recycling7	♹	recycling for type-7 plastics
+recyclingg	♺	recycling for generic materials
+recyclingp	♼	recycled paper
+recyclingp	♽	partially recycled paper

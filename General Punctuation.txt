@@ -1,0 +1,8 @@
+prime1	′
+prime2	″
+prime3	‴
+prime4	⁗
+para	¶
+section	§
+asterisk2	⁑
+asterisk3	⁂

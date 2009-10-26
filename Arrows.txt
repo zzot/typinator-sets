@@ -1,0 +1,16 @@
+arr<	←
+arr^	↑
+arr>	→
+arrV	↓
+arrh	↔
+Arr<	⇐
+Arr^	⇑
+Arr>	⇒
+ArrV	⇓
+Arrh	⇔
+Hand<	☚
+Hand>	☛
+hand<	☜
+hand^	☝
+hand>	☞
+handV	☟

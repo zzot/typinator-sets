@@ -1,0 +1,13 @@
+whiteflag	⚐
+blackflag	⚑
+atom	⚛
+blackstar	★
+whitestar	☆
+micro	µ
+careof	℅
+dagger	†
+doubledagger	‡
+prescription	℞
+servicemark	℠
+multiply	×
+divide	÷

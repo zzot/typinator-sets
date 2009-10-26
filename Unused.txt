@@ -1,0 +1,45 @@
+# Misc
+oline	‾	overline = spacing underscore
+frasl	⁄	fraction slash
+weierp	℘	Weierstrass p
+image	ℑ	imaginary part
+real	ℜ	real part symbol
+trade	™	trademark
+alefsym	ℵ	first transfinite cardinal
+topintegral	⌠	top half integral
+bottomintegral	⌡	bottom half integral
+watch	⌚	watch = busy symbol
+plusminus	±	plus or minus sign
+
+# Math
+forall	∀	for all
+part	∂	partial differential
+exist	∃	there exists
+nabla	∇	backward difference
+isin	∈	element of
+notin	∉	not an element of
+ni	∋	contains as member (better name?)
+prod	∏	n-ary product
+sum	∑	n-ary summation
+minus	−	minus sign
+lowast	∗	asterisk operator
+radic	√	sq. root = radical sign
+prop	∝	proportional to
+ang	∠	angle
+and	∧	logical and = wedge
+or	∨	logical or = vee
+cap	∩	intersection = cap
+cup	∪	union = cup
+int	∫	integral
+there4	∴	therefore
+ne	≠	not equal to
+sub	⊂	subset of
+sup	⊃	superset of
+nsub	⊄	not a subset of
+nsup	⊅	not a superset of
+sube	⊆	subset or equal to
+supe	⊇	superset or equal to
+oplus	⊕	direct sum
+otimes	⊗	vector product
+perp	⊥	perpendicular
+sdot	⋅	dot operator

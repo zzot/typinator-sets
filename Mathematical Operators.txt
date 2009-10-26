@@ -1,0 +1,11 @@
+empty	∅
+infinity	∞
+similar	∼
+approxeq	≅
+almosteq	≈
+identical	≡
+squareroot	√
+cuberoot	∛
+forthroot	∜
+divide	÷
+multiply	×

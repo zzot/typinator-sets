@@ -1,0 +1,12 @@
+aries	♈
+taurus	♉
+gemini	♊
+cancer	♋
+leo	♌
+virgo	♍
+libra	♎
+scorpius	♏
+sagittarius	♐
+capricorn	♑
+aquarius	♒
+pisces	♓
